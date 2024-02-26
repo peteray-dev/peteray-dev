@@ -2,7 +2,7 @@
 
 <img src="https://github.com/yourusername.png" alt="Your Profile Image" width="200">
 
-Hi there! I'm Ayomide, a passionate software developer with a love for creating innovative solutions. Here you'll find a collection of my projects, contributions, and experiments in the world of technology.
+Hi there! I'm Ayomide, a passionate Data Scientist and Software Developer with a love for creating innovative solutions. Here you'll find a collection of my projects, contributions, and experiments in the world of technology.
 
 ## About Me
 
