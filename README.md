@@ -8,18 +8,20 @@ Hi there! I'm Ayomide, a passionate software developer with a love for creating 
 
 I'm currently pursuing my passion for coding while exploring new technologies and improving my skills. My areas of interest include:
 
+- Data Science & Engineering
 - Software Development
 - Machine Learning
-- Data Science
-- Mobile App Development
-
-## Projects
-
-### Project 1: Github creation
+ 
 
 
+## Technologies
 
-### Project 2: 
+### Data Science Technologies
+
+
+
+### Software Development Technologies
+
 
 
 ## Get in Touch
