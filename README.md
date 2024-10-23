@@ -6,7 +6,7 @@ Hi there! I'm Ayomide, a passionate Data Scientist and Software Developer with a
 
 ## About Me
 
-I'm currently pursuing my passion for coding while exploring new technologies and improving my skills. My areas of interest include:
+I have a big passion for coding while exploring new technologies and improving my skills. My areas of interest include:
 
 - Data Science & Engineering
 - Software Development
