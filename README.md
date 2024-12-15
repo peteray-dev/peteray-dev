@@ -28,7 +28,7 @@ I have a big passion for coding while exploring new technologies and improving m
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me via:
 
-- Email: peteraydev@gmail.com
+- Email: popoolaayomide37@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/ayomide-popoola-60092a12a/)
 - Twitter: 
 
