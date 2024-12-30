@@ -1,6 +1,6 @@
 # Welcome to Popoola Ayomide's GitHub Profile! 👋
 
-<img src="https://github.com/yourusername.png" alt="Your Profile Image" width="200">
+<img src="https://github.com/peteraydev.png" alt="Your Profile Image" width="200">
 
 Hi there! I'm Ayomide, a passionate Data Scientist and Software Developer with a love for creating innovative solutions. Here you'll find a collection of my projects, contributions, and experiments in the world of technology.
 
@@ -8,9 +8,9 @@ Hi there! I'm Ayomide, a passionate Data Scientist and Software Developer with a
 
 I have a big passion for coding while exploring new technologies and improving my skills. My areas of interest include:
 
-- Data Science & Engineering
+- Data Science
 - Software Development
-- Machine Learning
+- Machine Learning Engineering
  
 
 
